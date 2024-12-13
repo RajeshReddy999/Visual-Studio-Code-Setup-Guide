@@ -1,0 +1,79 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.mouseWheelZoom": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "notebook.stickyScroll.enabled": true,
+  "terminal.integrated.stickyScroll.enabled": true,
+  "workbench.settings.applyToAllProfiles": [
+    "workbench.colorCustomizations"
+  ],
+  "window.titleBarStyle": "custom",
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "editor.minimap.enabled": false,
+  "editor.minimap.renderCharacters": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.tips.enabled": false,
+  "workbench.colorCustomizations": {
+    "editorSuggestWidget.selected Background": "#231739",
+    "sideBar.background": "#140E1A",
+    "list.activeSelection Background": "#231739",
+    "list.inactiveSelection Background": "#231739",
+    "list.focusBackground": "#231739",
+    "list.hoverBackground": "#231739"
+  },
+  "breadcrumbs.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+  "scm.diffDecorations": "none",
+  "files.insertFinalNewline": true,
+  "editor.fontSize": 14,
+  "editor.guides.indentation": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.showFoldingControls": "mouseover",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.detectIndentation": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontFamily": "FiraCode Nerd Font",
+  "editor.codeLensFontFamily": "Fira Code Nerd",
+  "editor.inlayHints.fontFamily": "Fira Code Nerd",
+  "terminal.integrated.fontFamily": "Fira Code Nerd",
+  "notebook.output.fontFamily": "Fira Code Nerd",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontLigatures": true,
+  "workbench.colorTheme": "Aura Dracula Spirit",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "bysabi.prettier-vscode-standard"
+  },
+  "editor.defaultFormatter": "bysabi.prettier-vscode-standard",
+  "notebook.defaultFormatter": "bysabi.prettier-vscode-standard",
+  "editor.guides.bracketPairs": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[tailwindcss]": {
+    "editor.defaultFormatter": "bysabi.prettier-vscode-standard"
+  }
+}
